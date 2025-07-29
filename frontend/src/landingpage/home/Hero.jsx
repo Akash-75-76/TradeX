@@ -5,7 +5,7 @@ function Hero() {
     <div className="container p-5">
      <div className="row text-center">
          <img src="/homeHero.png"  className="mb-5" />
-      <h1 className="mt-5"> in everything</h1>
+      <h1 className="mt-5">Invest in everything</h1>
       <p>
         Online platform to invest in stocks, derivatives, mutual funds, ETFs,
         bonds, and more.{" "}
